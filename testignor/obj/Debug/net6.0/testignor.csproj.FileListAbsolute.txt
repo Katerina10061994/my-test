@@ -1,0 +1,15 @@
+C:\Users\kater\Desktop\my test\testignor\bin\Debug\net6.0\testignor.exe
+C:\Users\kater\Desktop\my test\testignor\bin\Debug\net6.0\testignor.deps.json
+C:\Users\kater\Desktop\my test\testignor\bin\Debug\net6.0\testignor.runtimeconfig.json
+C:\Users\kater\Desktop\my test\testignor\bin\Debug\net6.0\testignor.dll
+C:\Users\kater\Desktop\my test\testignor\bin\Debug\net6.0\testignor.pdb
+C:\Users\kater\Desktop\my test\testignor\obj\Debug\net6.0\testignor.csproj.AssemblyReference.cache
+C:\Users\kater\Desktop\my test\testignor\obj\Debug\net6.0\testignor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kater\Desktop\my test\testignor\obj\Debug\net6.0\testignor.AssemblyInfoInputs.cache
+C:\Users\kater\Desktop\my test\testignor\obj\Debug\net6.0\testignor.AssemblyInfo.cs
+C:\Users\kater\Desktop\my test\testignor\obj\Debug\net6.0\testignor.csproj.CoreCompileInputs.cache
+C:\Users\kater\Desktop\my test\testignor\obj\Debug\net6.0\testignor.dll
+C:\Users\kater\Desktop\my test\testignor\obj\Debug\net6.0\refint\testignor.dll
+C:\Users\kater\Desktop\my test\testignor\obj\Debug\net6.0\testignor.pdb
+C:\Users\kater\Desktop\my test\testignor\obj\Debug\net6.0\testignor.genruntimeconfig.cache
+C:\Users\kater\Desktop\my test\testignor\obj\Debug\net6.0\ref\testignor.dll
