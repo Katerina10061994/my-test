@@ -1,0 +1,15 @@
+C:\Users\kater\Desktop\my test\mytest\bin\Debug\net6.0\mytest.exe
+C:\Users\kater\Desktop\my test\mytest\bin\Debug\net6.0\mytest.deps.json
+C:\Users\kater\Desktop\my test\mytest\bin\Debug\net6.0\mytest.runtimeconfig.json
+C:\Users\kater\Desktop\my test\mytest\bin\Debug\net6.0\mytest.dll
+C:\Users\kater\Desktop\my test\mytest\bin\Debug\net6.0\mytest.pdb
+C:\Users\kater\Desktop\my test\mytest\obj\Debug\net6.0\mytest.csproj.AssemblyReference.cache
+C:\Users\kater\Desktop\my test\mytest\obj\Debug\net6.0\mytest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kater\Desktop\my test\mytest\obj\Debug\net6.0\mytest.AssemblyInfoInputs.cache
+C:\Users\kater\Desktop\my test\mytest\obj\Debug\net6.0\mytest.AssemblyInfo.cs
+C:\Users\kater\Desktop\my test\mytest\obj\Debug\net6.0\mytest.csproj.CoreCompileInputs.cache
+C:\Users\kater\Desktop\my test\mytest\obj\Debug\net6.0\mytest.dll
+C:\Users\kater\Desktop\my test\mytest\obj\Debug\net6.0\refint\mytest.dll
+C:\Users\kater\Desktop\my test\mytest\obj\Debug\net6.0\mytest.pdb
+C:\Users\kater\Desktop\my test\mytest\obj\Debug\net6.0\mytest.genruntimeconfig.cache
+C:\Users\kater\Desktop\my test\mytest\obj\Debug\net6.0\ref\mytest.dll
